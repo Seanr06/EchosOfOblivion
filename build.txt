@@ -1,0 +1,3 @@
+displayName = Echos Of Oblivion
+author = Sean
+version = 0.1
