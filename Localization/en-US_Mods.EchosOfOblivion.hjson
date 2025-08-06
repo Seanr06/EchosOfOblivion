@@ -1,2 +1,9 @@
-# This file will automatically update with entries for new content after a build and reload.
+NPCs: {
+	Camazotz.DisplayName: Camazotz
+	CamazotzMinion.DisplayName: Camazotz Minion
+}
 
+Projectiles: {
+	ScreechProjectile.DisplayName: Screech Projectile
+	SlashAttack.DisplayName: Slash Attack
+}
